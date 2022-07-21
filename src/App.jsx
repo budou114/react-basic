@@ -4,8 +4,8 @@ function App() {
   return (
     <div>
       <Article
-        title={'新・日本一わかりやすいReact入門'}
-        content={'今日のトピックはpropsについて'}
+        title={'新・日本一わかりやすいReact入門基礎編'}
+        content={'今日のトピックはpropsのデータの受け渡しについて'}
       />
     </div>
   );
